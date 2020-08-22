@@ -348,13 +348,6 @@ DOMAIN-SUFFIX,ads.internal.unity3d.com
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,unityads.unity3d.com
-# > AutoHome
-DOMAIN,adproxy.autohome.com.cn
-DOMAIN,al.autohome.com.cn
-DOMAIN,applogapi.autohome.com.cn
-DOMAIN,rd.autohome.com.cn
-IP-CIDR,103.75.152.210/32,no-resolve
-IP-CIDR,103.75.153.3/32,no-resolve
 # (B)
 # > Baidu
 DOMAIN-SUFFIX,cpro.baidu.com
@@ -367,32 +360,15 @@ DOMAIN,nsclick.baidu.com
 # > bika
 DOMAIN,ad-display.wikawika.xyz
 DOMAIN,ads.wakamoment.tk
-# > BitAuto
-DOMAIN,adx.yiche.com
-DOMAIN,log.ycapp.yiche.com
-# > ByteDance
-DOMAIN,ad.toutiao.com
-# > 百词斩
-DOMAIN,advertise.baicizhan.com
-DOMAIN,advertise.baicizhan.org
 # (C)
 # > ChinaTelecom
 DOMAIN,ad.21cn.com
 DOMAIN,ad.k.21cn.com
 DOMAIN,admarket.21cn.com
 DOMAIN,adshows.21cn.com
-# > CNTV
-DOMAIN,galaxy.bjcathay.com
-DOMAIN,mdrecv.app.cntvwb.cn
-DOMAIN,sdapprecv.app.cntvwb.cn
-DOMAIN,vdapprecv.app.cntvwb.cn
 # > 车来了
 DOMAIN,atrace.chelaile.net.cn
 DOMAIN,logs.chelaile.net.cn
-# (D)
-# > 懂球帝
-DOMAIN,ap.dongqiudi.com
-# (J)
 # 京东
 DOMAIN,dns.jd.com
 IP-CIDR,101.124.19.122/32,no-resolve
@@ -403,18 +379,11 @@ DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googleadsserving.cn
 DOMAIN-SUFFIX,googlesyndication.com
 # (H)
-# > HunanTV
-DOMAIN-SUFFIX,da.hunantv.com
-DOMAIN-SUFFIX,da.mgtv.com
 # > Hupu
 DOMAIN,adx-api.hupu.com
 DOMAIN,adx.hupu.com
 DOMAIN,goblin.hupu.com
 # (I)
-# > Ifeng
-DOMAIN-SUFFIX,deliver.ifeng.com
-DOMAIN,api.newad.ifeng.com
-DOMAIN,ifengad.3g.ifeng.com
 # > iQiyi
 DOMAIN,t7z.cupid.iqiyi.com
 IP-CIDR,101.227.97.240/32,no-resolve
@@ -448,22 +417,6 @@ DOMAIN,ark.letv.com
 DOMAIN,emma-414870e223.huodonghezi.com
 DOMAIN,g3.letv.com
 DOMAIN,n.mark.letv.com
-# > 乐播投屏
-DOMAIN,ad.hpplay.cn
-DOMAIN,adcdn.hpplay.cn
-DOMAIN,adeng.hpplay.cn
-DOMAIN,rp.hpplay.cn
-# (M)
-# > MI
-DOMAIN-SUFFIX,ad.intl.xiaomi.com
-DOMAIN-SUFFIX,ad.xiaomi.com
-DOMAIN-SUFFIX,admob.xiaomi.com
-DOMAIN,adv.sec.intl.miui.com
-# > 墨迹天气
-DOMAIN,ad.api.moji.com
-DOMAIN,adlaunch.moji.com
-DOMAIN,ads.mojicdn.com
-DOMAIN,v1.log.moji.com
 # (N)
 # > NetEase
 DOMAIN,ad.bn.netease.com
@@ -481,30 +434,11 @@ DOMAIN,n.3g.163.com
 DOMAIN,nex.163.com
 DOMAIN,yt-adp.nosdn.127.net
 DOMAIN,yt-adp.ws.126.net
-# (P)
-# > PeanutWiFiMpass
-DOMAIN,adfile.wifi8.com
-DOMAIN,adnew.wifi8.com
-# > Photoable
-DOMAIN,cdn.adapi.fotoable.com
-DOMAIN,regist.fotoable.com
-# > PPTV
-DOMAIN,ads.aplus.pptv.com
-DOMAIN,ads.aplusapi.pptv.com
-DOMAIN,asimgs.pplive.cn
-DOMAIN,de.as.pptv.com
 # (R)
 # > 人人影视字幕组
 DOMAIN,tj.playcvn.com
 DOMAIN,tu.cvnad.com
 # (S)
-# > Sina
-DOMAIN-SUFFIX,beacon.sina.com.cn
-DOMAIN,adimg.vue.weibo.com
-DOMAIN,sax.sina.com.cn
-DOMAIN,saxn.sina.com.cn
-DOMAIN,saxs.sina.com.cn
-DOMAIN,u1.img.mobile.sina.cn
 # > Sohu
 DOMAIN-SUFFIX,ad.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
@@ -529,43 +463,9 @@ DOMAIN,splashqqlive.gtimg.com
 DOMAIN,wa.gtimg.com
 DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
-# >> 体育
-DOMAIN,dp3.qq.com
-DOMAIN,lives.l.qq.com
-# > The Paper
-DOMAIN,admonitor.thepaper.cn
-DOMAIN,adpai.thepaper.cn
-DOMAIN,imgadpai.thepaper.cn
 # > Thunder
 DOMAIN,adsp.xunlei.com
 DOMAIN,etl.xlmc.sandai.net
-# > 同花顺
-DOMAIN,adm.10jqka.com.cn
-DOMAIN,stat.10jqka.com.cn
-# > 太平洋
-DOMAIN,ad-analysis.pconline.com.cn
-DOMAIN,iad0ssl.pcauto.com.cn
-DOMAIN,iad0ssl.pconline.com.cn
-DOMAIN,imgad0.pcauto.com.cn
-DOMAIN,imgad0.pconline.com.cn
-DOMAIN,ivy.pchouse.com.cn
-# (W)
-# > WiFi 万能钥匙
-DOMAIN,a.wkanx.com
-DOMAIN,c1wx.lianwangtech.com
-DOMAIN,cwx.lianwangtech.com
-# (X)
-# > 喜马拉雅
-DOMAIN,ad.ximalaya.com
-DOMAIN,adbehavior.wsa.ximalaya.com
-DOMAIN,adbs.ximalaya.com
-DOMAIN,adse.wsa.ximalaya.com
-DOMAIN,adse.ximalaya.com
-DOMAIN,adsebs.ximalaya.com
-# > 小红书
-DOMAIN,ads-img-qc.xhscdn.com
-DOMAIN,ads-video-qc.xhscdn.com
-DOMAIN,t-ads.xiaohongshu.com
 # (Y)
 # > Youku
 DOMAIN-SUFFIX,atm.youku.com
@@ -574,11 +474,6 @@ DOMAIN,iyes.youku.com
 # > YouTube++
 DOMAIN,ehg-youtube.hitbox.com
 # (Z)
-# > ZOL
-DOMAIN,apppv.zol.com.cn
-DOMAIN,pvnapp.zol.com.cn
 # > 字节跳动
 DOMAIN,sf3-ttcdn-tos.pstatp.com
 DOMAIN,sf6-ttcdn-tos.pstatp.com
-# > 知到
-DOMAIN,app-advertise.zhihuishu.com
